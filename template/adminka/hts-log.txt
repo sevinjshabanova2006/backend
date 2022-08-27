@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 05 Jul 2022 15:12:21 at https://demos.creative-tim.com/material-dashboard-pro/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demos.creative-tim.com/material-dashboard-pro/ -O1 "C:\My Web Sites\adminka" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:12:50	Error: 	"Forbidden" (403) at link https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_bs5_thumbnail.jpg (from https://demos.creative-tim.com/material-dashboard-pro/)
+15:12:50	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/default.html (from https://demos.creative-tim.com/material-dashboard-pro/)
+15:12:55	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://demos.creative-tim.com/material-dashboard-pro/)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/assets/img/products/product-1-min.jpg" (from https://demos.creative-tim.com/material-dashboard-pro/)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/assets/img/products/product-2-min.jpg" (from https://demos.creative-tim.com/material-dashboard-pro/)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/assets/img/products/product-3-min.jpg" (from https://demos.creative-tim.com/material-dashboard-pro/)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/assets/css/images/layers.png (from https://demos.creative-tim.com/material-dashboard-pro/assets/css/material-dashboard.min.css?v=3.0.5)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/assets/css/images/layers-2x.png (from https://demos.creative-tim.com/material-dashboard-pro/assets/css/material-dashboard.min.css?v=3.0.5)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/assets/css/images/marker-icon.png (from https://demos.creative-tim.com/material-dashboard-pro/assets/css/material-dashboard.min.css?v=3.0.5)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/assets/img/products/product-1-min.jpg" (from https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/assets/img/products/product-2-min.jpg" (from https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/assets/img/products/product-3-min.jpg" (from https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/analytics.html)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/pages/account/javascript (from https://demos.creative-tim.com/material-dashboard-pro/pages/pages/account/settings.html)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/ecommerce/overview.html (from https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signin/basic.html)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/pages/orders/details.html (from https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signin/basic.html)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/about-us.html (from https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signin/basic.html)
+15:13:56	Warning: 	Retry after error -5 (Unable to get server's address: ???? ???? ??????????. ) at link https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png (from https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/automotive.html)
+15:13:56	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/assets/img/nastuh.jpg (from https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/smart-home.html)
+15:13:57	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/ecommerce/assets/img/products/product-11.jpg" (from https://demos.creative-tim.com/material-dashboard-pro/pages/ecommerce/products/edit-product.html)
+15:13:57	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/privacy.html (from https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signup/cover.html)
+15:13:57	Error: 	"Not Found" (404) at link https://demos.creative-tim.com/material-dashboard-pro/pages/sign-in/sign-in-cover.html (from https://demos.creative-tim.com/material-dashboard-pro/pages/authentication/signup/cover.html)
+15:13:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png (from https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/automotive.html)
+15:13:57	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png (from https://demos.creative-tim.com/material-dashboard-pro/pages/dashboards/automotive.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 36 seconds : 213 links scanned, 189 files written (21168145 bytes overall) [16077324 bytes received at 167472 bytes/sec], 7679989 bytes transferred using HTTP compression in 133 files, ratio 28%, 17.1 requests per connection
+(21 errors, 2 warnings, 0 messages)
