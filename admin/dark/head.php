@@ -49,7 +49,7 @@
     <link href="assets/css/nucleo-icons.css" rel="stylesheet" />
     <link href="assets/css/nucleo-svg.css" rel="stylesheet" />
 
-    <script src="../../kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+  
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
 
